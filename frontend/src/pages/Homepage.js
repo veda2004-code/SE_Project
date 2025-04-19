@@ -17,9 +17,9 @@ const Homepage = () => {
                         <StyledTitle>
                             Welcome to <b>AttendEase</b>
                             <br />
-                            College Management
+                            Students Attendance
                             <br />
-                            System
+                            Management Portal
                         </StyledTitle>
                         <StyledText>
                             Streamline college management, class organization, and add students and faculty.
